@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BootMetro
 
 
@@ -79,3 +80,7 @@ Early versions of BootMetro was inspired by the work of Sergey Pimenov for his [
    
 * [Tile image sizes](http://msdn.microsoft.com/en-us/library/windows/apps/hh781198.aspx)
 
+=======
+# bootmetro
+Simple and complete web UI framework to create web apps with Windows 8 Metro user interface
+>>>>>>> a14cf470797ae49678f8a66656061e8a32a3f5d5
